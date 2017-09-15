@@ -1,0 +1,75 @@
+/* =Reset default browser CSS.
+-------------------------------------------------------------- */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {border: 0;font-family: inherit;font-size: 100%;font-style: inherit;font-weight: inherit;margin: 0;outline: 0;padding: 0;vertical-align: middle;}
+:focus {outline: 0;}
+
+ol, ul {list-style: none;}
+table {border-collapse: separate;border-spacing: 0;}
+caption, th, td {font-weight: normal;text-align: left;}
+blockquote:before, blockquote:after,q:before, q:after {content: "";}
+blockquote, q {quotes: "" "";}
+a img{border: 0;}
+figure{margin:0}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+/* -------------------------------------------------------------- */
+
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+html{
+	position: relative;
+	min-height: 100%;
+}
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	color: #333;
+	background-color: #e5e5e5;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+textarea, input[type="text"] {
+	-webkit-appearance: none;
+}
+textarea {
+   resize: none;
+}
+p{
+	color: #434343;
+}
+a:hover, a:focus, a:hover p, select:hover, select:focus, select:active{
+	text-decoration: none !important;
+	outline: none !important;
+}
+a, a:link,a:active, span{
+	text-decoration: none;
+	outline: none !important;
+	vertical-align: top;
+}
+.icons{
+	background: url("../i/icons.png") no-repeat;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px){}
+
+@media only screen and (max-device-width : 767px) {}

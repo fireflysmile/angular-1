@@ -1,0 +1,814 @@
+{
+	"headers":[
+		{
+			"column": "a",
+			"name": "Status"
+		},
+		{
+			"column": "b",
+			"name": "Discovery Date"
+		},
+		{
+			"column": "c",
+			"name": "Project Name"
+		},
+		{
+			"column": "d",
+			"name": "Project Description"
+		},
+		{
+			"column": "e",
+			"name": "Comments"
+		},
+		{
+			"column": "f",
+			"name": "Crowd Lead"
+		},
+		{
+			"column": "g",
+			"name": "Backup Crowd Lead"
+		},
+		{
+			"column": "h",
+			"name": "Business Unit"
+		},
+		{
+			"column": "i",
+			"name": "Business Unit Point of Contact"
+		},
+		{
+			"column": "j",
+			"name": "Project Manager"
+		},
+		{
+			"column": "k",
+			"name": "Business Analyst"
+		},
+		{
+			"column": "l",
+			"name": "UX Architect"
+		},
+		{
+			"column": "m",
+			"name": "Community Architect"
+		},
+		{
+			"column": "n",
+			"name": "BUSO"
+		},
+		{
+			"column": "o",
+			"name": "CTO/JHAS"
+		},
+		{
+			"column": "p",
+			"name": "Benefits"
+		},
+		{
+			"column": "q",
+			"name": "Cost Center"
+		},
+		{
+			"column": "r",
+			"name": "PPM Code"
+		},
+		{
+			"column": "s",
+			"name": "Technology Stack"
+		}
+	],
+	"data":[
+		{
+			"row": 1,
+			"status":"Active",
+			"Discovery Date":"01/01/2015",
+			"Project Name":"New York",
+			"Project Description":"Create a New York application to train producers.",
+			"Comments":["7/27 JO: Final fixes for final design challenge sent to winner. Feedback gathered and tracking fixes in GitLab. Working on confirming authentication with business."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"Gouri Ghosh, Rekha Chikkabasavaiah",
+			"Business Unit":"Insurance",
+			"Business Unit Point Of Contact":"Susan Guccione, James O'Brien",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"James O'Brien",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 2,
+			"status":"Complete",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Vermont",
+			"Project Description":"Shared Application Services is requesting a redesign of current logo",
+			"Comments":[],
+			"Crowd Lead":"Olu Crayton",
+			"Backup Crowd Lead":"Gouri Ghosh",
+			"Business Unit":"SAS",
+			"Business Unit Point Of Contact":"Susan Curran",
+			"Project Manager":"Susan Curran",
+			"Business Analyst":"No",
+			"UX Architect":"Scott Mcdaniel",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 3,
+			"status":"Pipeline",
+			"Discovery Date":"07/29/2016",
+			"Project Name":"New Jersey",
+			"Project Description":"This would be a cloud based app that serves as a social media platform, keyword based search engine, broadcasting tool and live knowledge forum.",
+			"Comments":["7/29 JO: A basic prototype has already been developed as part of the iHub competition. While the project has similarites to MFConnect and what Yammer are trying to accomplish, this ideally would be separate from those two tools so feautures and scope can be controlled internally. It is unsure if work Will Price be required before the presentation in September, but crowdsourcing is said to be the desired solution."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"",
+			"Business Unit":"IS Shared Services",
+			"Business Unit Point Of Contact":"Yvette Fernandes",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 4,
+			"status":"Not Good Fit",
+			"Discovery Date":"06/10/2016",
+			"Project Name":"North Carolina",
+			"Project Description":"Design a web portal for employees to submit, vote, and review ideas in an effort to improve employee engagement.",
+			"Comments":["7/26 JO: Business decided to go with Yammer as the tool for Employee Engagement after multiple conversations with Micrsoft consultants. ","6/24 JO: Johanna met with a Microsoft consultant about Yammer and they would like to take a few weeks to confirm the direction they would like to take. ","6/10 JY: we met with Valerie and Johanna Robles Tam about the possibility of designing a portal for employees to submit, review and vote on ideas.  They Will Price work on their concept the week of 6/13 and then get back to us based on input we provided.  Crowd team may write business requirements for this app."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"Rekha Chikkabasavaiah",
+			"Business Unit":"Group Functions",
+			"Business Unit Point Of Contact":"Valerie Harry, Johanna Tam",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"Johanna Tam",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":false,
+			"Better":true
+		},{
+			"row": 5,
+			"status":"Pipeline",
+			"Discovery Date":"06/30/2016",
+			"Project Name":"Georgia",
+			"Project Description":"The ask is to leverage the crowd as a focus group to give feedback on the current site to suggest any changes/enhancements to improve UX",
+			"Comments":["8/2 JO: Followed up with Dave who notified us they have moved directions and gone with a 3rd party vendor who Will Price be supplying the website. They may still want to leverage crowdsourcing but Will Price not know for about a month. Follow up - first week of Sept. ","7/5 RC: eApp expected launch date is late Aug/early Sept; Channel expansion team is working on final stylistic changes and missing content.","6/30/16 JO: David Pereira reached out to identify if they could leverage the crowd as a focus group to provide UX recommendations, pain points, and proposed enhancements to the already crowd designed eApp from earlier this year. They would like recommendations from the crowd before they productionalize the site."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"Rekha Chikkabasavaiah",
+			"Business Unit":"Insurance IS",
+			"Business Unit Point Of Contact":"David Pereira, Latisha Silvera",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"David Pereira",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 6,
+			"status":"Not Good Fit",
+			"Discovery Date":"06/03/2016",
+			"Project Name":"Texas",
+			"Project Description":"Test",
+			"Comments":["7/8/2016 - Business had been working on Flask framework for Python and had a breakthrough. Spec was drafted for initial challenge, but business decided to proceed internally. "," 6/3 JY: potential to Crowdsource solution design options for Python UI to augment WCF and Visual Studio options.  May be an opportunity to pilot use of Python."," 6/8 JO: Mohan has scheduled intro meeting for 6/10 with me and Will Price"," 6/10 JO: The team is looking for a web based UI/service layer recommendations from the crowd to build on top of the Python code they already have. The tool connects to LDAP and gets members/owners of ACLs. Mohan Will Price share the Python code (masked) and existing output reports by 6/15. "," 6/23: Crowd inputs received - recommended simple POC to build a basic UI to run the tool. Waiting for approval from business to start drafting spec & game plan."," 6/28 JO: Challenge spec drafted and sent to business. Daya Puls aware and approved launch of challenge 1 - provided some feedback. Business confirmed they have been working on learning Flask framework and may modify crowd need and spec. Will Price get back to us end of this week or next week."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"",
+			"Business Unit":"JHAS Finance",
+			"Business Unit Point Of Contact":"Mohan Krishna Rayapuvari, Peter Lathrop",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"Johanna Tam",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 7,
+			"status":"Pipeline",
+			"Discovery Date":"03/29/2016",
+			"Project Name":"North Dakota",
+			"Project Description":"A newmodel to be developed to automate the average asset balance calculating and tracking expected fee revenue, allowing input of collected revenue, formalizing the reporting of exceptions for management investigation, reporting and sign-off.",
+			"Comments":["8/12: Meeting to discuss integration details and project scope."," 7/15: Internal discussion with Matt T. regarding anticipated multiple integration points."," 7/11 RC: Sandra and Luciano working on Crowd BRD."," 7/5 RC: Blake has approved the Fee Model initiative. Meeting with Sandra 7/7 to discuss Crowdsourcing BRD"," 6/13 RC: Blake Koehler is currently reviewing the project overview; Crowd requirements to be drafted once he approves."," 5/27 JY: spoke to Sam Abrokwa; he Will Price touchbase with Sandra on 5/30."," 5/13: Fee model presentation to Blake Koehler postponed. New presentation date has not been set. Sandra Will Price include Rekha in the next requirements discussion meeting with Sam and Jawaad."," 5/6: Meeting with Sandra rescheduled to 5/13"," 4/28: Sandra's discussion with Sam and Jawaad pending "," 4/15: Sandra needs to present curent and future process documentation to Blake Koehler mid May. Requirements Will Price be finalized by May 13."],
+			"Crowd Lead":"Rekha Chikkabasavaiah",
+			"Backup Crowd Lead":"",
+			"Business Unit":"RPS",
+			"Business Unit Point Of Contact":"Jawaad Hossain",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"Sandra Radovanovic",
+			"UX Architect":"TBD",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":false,
+			"Better":true
+		},{
+			"row": 8,
+			"status":"Active",
+			"Discovery Date":"07/22/2016",
+			"Project Name":"Maine",
+			"Project Description":"Develop a responsive website to share information about Crowd projects with IS Shared Services, Appirio and BU management. The app should run and display correctly on desktop, laptop, ios and Android devices",
+			"Comments":["8/2: Requirements sent to Will Price for review and Game Plan creation"," 7/22: Develop a simple website to share information about Active and Pipeline Crowd projects with IS Shared Services and BU management"],
+			"Crowd Lead":"Rekha Chikkabasavaiah",
+			"Backup Crowd Lead":"",
+			"Business Unit":"SAS-WMD",
+			"Business Unit Point Of Contact":"James Yavorski",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"Trevor Gerring",
+			"Community Architect":"Will Priceiam Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 9,
+			"status":"Not Good Fit",
+			"Discovery Date":"04/13/2016",
+			"Project Name":"Montana",
+			"Project Description":"",
+			"Comments":["6/2: Architecture review in progress; Not approved for 2016; Also, not a good fit for Crowdsourcing due to MQ series integration"," 5/26: Jim Yavorski and Rekha Will Price meet with Sreejith on 6/2"," 5/4 RC: Peter Whitehead's input is needed to identify a shared web app that ideally does not involve MQ integration. Peter is on vacation; update expected week of 5/16"," 4/13: Need to upgrade many apps from Java 1.4 to 8.0.  Crowd could upgrade and resolve compatibility issues.  Separately Websphere 4.5 to 6.0 upgrade Will Price be required."],
+			"Crowd Lead":"Rekha Chikkabasavaiah",
+			"Backup Crowd Lead":"",
+			"Business Unit":"Insurance IS",
+			"Business Unit Point Of Contact":"Sreejith Madhavankutty",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 10,
+			"status":"Complete",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"New Hampshire",
+			"Project Description":"Scope comparison for development of Activity Manager application",
+			"Comments":[],
+			"Crowd Lead":"Ashley Steele",
+			"Backup Crowd Lead":"N/A",
+			"Business Unit":"IS Shared Services - Finance",
+			"Business Unit Point Of Contact":"Brett Rosequist",
+			"Project Manager":"Brett Rosequist",
+			"Business Analyst":"No",
+			"UX Architect":"N/A",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":false,
+			"Better":true
+		},{
+			"row": 11,
+			"status":"Pipeline",
+			"Discovery Date":"04/28/2016",
+			"Project Name":"Florida",
+			"Project Description":"The objective here is to reverse engineer a Microsoft Access Database which is currently being used to review, process",
+			"Comments":["7:26 JO: Business should be ready to review Game Plan next week. Will Price is working on drafting that now.","7/11 JO: Will Price agreed documents were good to get started, thus we are waiting for the businesses availabilty on when to draft game plan and spec. Business thinks end of July. "," 7/08 JO: I sent over a Process Document, the DB currently being used today, keyword matching, and enhancement list to Will Price for review."," 6/27 JO: Met with business to document more detailed process. They Will Price be sending a wish list and process document by next week. They would like aim for an August challenge launch."," 6/14 JO: Will  be meeting with business to further document process and logic week of 6/27"," 6/7 JO: Documention not yet crowd ready, but Will Price agreed the opportunity is certainly there once documentation is cleaned up. Esta Will be providing me a copy of the DB and current documentation, and I Will  work with the business to ensure it becomes crowd ready."," 5/13 JY: Peter Will Price find an Access DB app that can be an initial replatform."," 4/29: Will Price explore opportunities for moving Access apps to .NET, Python, Salesforce, R."],
+			"Crowd Lead":"James O'Brien",
+			"Backup Crowd Lead":"",
+			"Business Unit":"JHAS Finance",
+			"Business Unit Point Of Contact":"Peter Lathrop, David Gagne, Esta Alexis",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"Esta Alexis",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 12,
+			"status":"Not Good Fit",
+			"Discovery Date":"04/06/2016",
+			"Project Name":"Connecticut",
+			"Project Description":"",
+			"Comments":["7/12 - Matt's forum question received no response from the crowd. This is an indication that there Will Price be no participation from the crowd if we launch a challenge. Not considered a good fit."," 6/30: Matt has posted in the forum and reached out to people directly to gauge the crowd experience/interest in Documerge. Matt Will Price respond to the Documerge group with his findings."," 6/29: Matt T. Will Price be the CA for this project; met with Ray and Rakesh to discuss Matt's questions, Meeting with Matt 6/30"," 6/15: BRD sent to Will Price Price for review."," 6/14: Ray has completed doc review; waiting for couple of final clarifications from Rakesh K."," 6/3: Draft Documerge BRD sent to Ray W. and team for review"," 5/26: Rekha to send draft Documerge document to Ray W. and Rakesh to review on 6/2"," 5/19: Ray expects to send high level documentation on 5/20"," 4/28: Ray and Tech team currently discussing details needed for the highlevel Documerge document."," 4/6: Mainframe utility correspondence tool Will Price be EOL 2017; Crowd may have ideas to solve for rather than Xpression.  Ray Will Price provide high level examples of use; Crowd Lead can document requirements."],
+			"Crowd Lead":"Rekha Chikkabasavaiah",
+			"Backup Crowd Lead":"",
+			"Business Unit":"Insurance IS",
+			"Business Unit Point Of Contact":"Ray Weston",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Priceam Proce, Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 13,
+			"status":"Pipeline",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"California",
+			"Project Description":"Enhance app with a 'Diagnostics' button that Will Price present the user with options to either run canned reports or have the ability to get customized results using specialized filters.",
+			"Comments":["8/10: Next meeting 8/12"," 8/3: Met with Dave and John on 8/2; Business still finalizing scope of crowdsourced enhancements"," 6/24: John N. discussed a preferred option of having a 'Diagnostics' button that Will Price present the user with options to either run canned reports or have the ability to get customized results using specialized filters. He needs to get confirmation from Dave F. Next meeting 7/29"," 6/3: Next meeting 6/17"," 5/3: meeting rescheduled to 6/1."," 5/3: Dave Fortier is busy with acquisition activities and production deployments;"],
+			"Crowd Lead":"Rekha Chikkabasavaiah",
+			"Backup Crowd Lead":"",
+			"Business Unit":"Signator",
+			"Business Unit Point Of Contact":"Dave Fortier, John J Nusslein",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"TBD",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 14,
+			"status":"Complete",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Massachusetts",
+			"Project Description":"Design and develop an iPad application that Will Price help photographers of a company acquire signatures from the people in the pictures. By acquiring the signature it gives the photographers/company legal permission to use their images in social media, advertising, etc..",
+			"Comments":[],
+			"Crowd Lead":"Ashley Steele Steele ",
+			"Backup Crowd Lead":"Gouri Ghosh",
+			"Business Unit":"Brand Management",
+			"Business Unit Point Of Contact":"Jennifer Smith",
+			"Project Manager":"Jennifer Smith",
+			"Business Analyst":"No",
+			"UX Architect":"Scott Mcdaniel",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 15,
+			"status":"Stalled",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Kentucky",
+			"Project Description":"Infonet is the Knowledge Management tool used by service reps to track process, help with training, provide access to job aids. Would like to modernize the search functionality of Infonet to make it easier to use",
+			"Comments":["Info Session Scheduled 8/27"],
+			"Crowd Lead":"Ashley Steele",
+			"Backup Crowd Lead":"Gouri Ghosh",
+			"Business Unit":"RPS",
+			"Business Unit Point Of Contact":"Alison Hodge",
+			"Project Manager":"No",
+			"Business Analyst":"No",
+			"UX Architect":"TBD",
+			"Community Architect":"Matt",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":false,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 16,
+			"status":"Complete",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Ohio",
+			"Project Description":"Based on the wireframes provided by John Hancock, designers were asked to produce UI design concepts for an application to be used by the US Finance team to manage reinsurance activities.",
+			"Comments":[],
+			"Crowd Lead":"Ashley Steele",
+			"Backup Crowd Lead":"N/A",
+			"Business Unit":"IS Shared Services - Finance",
+			"Business Unit Point Of Contact":"Brett Rosequist",
+			"Project Manager":"Brett Rosequist",
+			"Business Analyst":"No",
+			"UX Architect":"Scott Mcdaniel",
+			"Community Architect":"Matthew Twomey",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":false,
+			"Better":true
+		},{
+			"row": 17,
+			"status":"Stalled",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Connecticut",
+			"Project Description":"SpinetiX is used to push social media to the TVs in the Hancock campus.  Spreadfast is used today to combine social media into 1 file; delivery challenge would be used to create 1 big file that can be pushed out to the boxes attached to the TVs",
+			"Comments":["Stalled"],
+			"Crowd Lead":"Olu Crayton",
+			"Backup Crowd Lead":"",
+			"Business Unit":"Brand Management",
+			"Business Unit Point Of Contact":"Jennifer Smith",
+			"Project Manager":"No",
+			"Business Analyst":"No",
+			"UX Architect":"Joseph Baggett/Christina",
+			"Community Architect":"Matt",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 18,
+			"status":"Stalled",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Arizona",
+			"Project Description":"The census scrubbing tool would allow  staff to upload transfer files containing census information from prior record keepers.",
+			"Comments":["Info Session Scheduled 9/9"],
+			"Crowd Lead":"Ashley Steele",
+			"Backup Crowd Lead":"Gouri Ghosh",
+			"Business Unit":"RPS",
+			"Business Unit Point Of Contact":"Blake Koehler/Tony Kwan",
+			"Project Manager":"No",
+			"Business Analyst":"No",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 19,
+			"status":"Stalled",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Alaska",
+			"Project Description":"Dev automated process to analyze server and app logs to predict and proactively resolve sales net app issues",
+			"Comments":["Requirements Gathering"],
+			"Crowd Lead":"Olu Crayton",
+			"Backup Crowd Lead":"Gouri Ghosh",
+			"Business Unit":"Insurance IS",
+			"Business Unit Point Of Contact":"Peter Neville",
+			"Project Manager":"No",
+			"Business Analyst":"No",
+			"UX Architect":"N/A",
+			"Community Architect":"Matt",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 20,
+			"status":"Active",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Alabama",
+			"Project Description":"Team wants a highly interactive tool for project status management. Looking to develop a mobile and web app to capture input from PPM along with a project health and sentiment indicator.",
+			"Comments":["8/10: Met with Jim Mascia and Norbert Cruz to document/prioritize changes that are required as a result of the prototype review for iOS and responsive Website versions of Snapshot. 7/27 - prototype review. 6/30 finalizing iOS Prototype challenge. 6/25 launched UI prototype challenge (Angular JS)"],
+			"Crowd Lead":"Janice Guiendon",
+			"Backup Crowd Lead":"Ashley Steele",
+			"Business Unit":"JH RPS",
+			"Business Unit Point Of Contact":"Jim Mascia",
+			"Project Manager":"Jim Mascia",
+			"Business Analyst":"Norbert Cruz",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Mark Chew",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B",
+			"Cost Center":"4300",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 21,
+			"status":"Stalled",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Rhode Island",
+			"Project Description":"Develop a new Admin UI for for the sale of  financial service products offered in packages to advisors",
+			"Comments":["Stalled"],
+			"Crowd Lead":"Olu Crayton",
+			"Backup Crowd Lead":"",
+			"Business Unit":"Signator",
+			"Business Unit Point Of Contact":"Christi Reis",
+			"Project Manager":"Yes",
+			"Business Analyst":"No",
+			"UX Architect":"Christina",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B,F,C",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		},{
+			"row": 22,
+			"status":"Active",
+			"Discovery Date":"03/31/2016",
+			"Project Name":"Virginia",
+			"Project Description":"The analytics team needs a dynamic solution for taking in files from disparate sources and providing structure to otherwise unstructured files - the common thread being they contain data related to producers. In simple terms, an excel file is loaded into the ‘solution system’ and the data from all the tabs is organized in a structured way into an sql database that can be used for analytical purposes.",
+			"Comments":["8/10 JG: Left phone message for Mark Waltham. Asked if he had any questions about the proposed gameplan or if he is still reviewing it. 7/22 Will Price drafted Game Plan and was sent to Mark and Venkat. Mark is OOO 7/25-7/29 and Will Price get back to us once back from vacation for next steps. Winner selected. 6/30:  9 submissions being review by MW. 6/23: Launched coding challenge for 'Unstructured Data Intake.'  Challenge Will Price run through 6/28 - Expected result: approach to move forward."],
+			"Crowd Lead":"Janice Guiendon",
+			"Backup Crowd Lead":"James N. O'Brien",
+			"Business Unit":"JH Investments",
+			"Business Unit Point Of Contact":"Mark Waltham",
+			"Project Manager":"Ashley Steele",
+			"Business Analyst":"",
+			"UX Architect":"Joseph Baggett",
+			"Community Architect":"Will Price",
+			"BUSO":"Marie Dunne, Bryce Cunningham, Daya Puls",
+			"CTO/JHAS":"Herb Lim",
+			"Benefits(B,F,C)":"B",
+			"Cost Center":"1234",
+			"PPM Code":"123456",
+			"Technology Stack":"",
+			"Faster":true,
+			"cheaper":true,
+			"Better":true
+		}
+	],
+	"labelChart": ["Jan","Fer","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+	"dataChart": [
+		[34, 35, 39, 19, 21, 37, 56, 46, 36, 56, 56, 69],
+		[45, 61, 29, 44, 44, 64, 40, 36, 47, 42, 45, 50]
+	],
+	"listDropBU" :[
+		{
+			"id": 1,
+			"text": "Insurance"
+		},
+		{
+			"id": 2,
+			"text": "JHAS Finance"
+		},
+		{
+			"id": 3,
+			"text": "IS Shared Services"
+		},
+		{
+			"id": 4,
+			"text": "Insurance IS"
+		},
+		{
+			"id": 5,
+			"text": "Group Functions"
+		},
+		{
+			"id": 6,
+			"text": "RPS"
+		},
+		{
+			"id": 7,
+			"text": "Signator"
+		},
+		{
+			"id": 8,
+			"text": "SAS-WMD"
+		},
+		{
+			"id": 9,
+			"text": "Brand Management"
+		},
+		{
+			"id": 10,
+			"text": "SAS"
+		},
+		{
+			"id": 11,
+			"text": "IS Shared Services - Finance"
+		},
+		{
+			"id": 12,
+			"text": "JH RPS"
+		},
+		{
+			"id": 13,
+			"text": "JH Investments"
+		}
+	],
+	"listDropBUOL":[
+		{
+			"id": 1,
+			"text": "Susan Guccione"
+		},
+		{
+			"id": 2,
+			"text": "James O'Brien"
+		},
+		{
+			"id": 3,
+			"text": "Peter Lathrop"
+		},
+		{
+			"id": 4,
+			"text": "David Gagne"
+		},
+		{
+			"id": 5,
+			"text": "Esta Alexis"
+		},
+		{
+			"id": 6,
+			"text": "Yvette Fernandes"
+		},
+		{
+			"id": 7,
+			"text": "David Pereira"
+		},
+		{
+			"id": 8,
+			"text": "Latisha Silvera"
+		},
+		{
+			"id": 9,
+			"text": "Valerie Harry"
+		},
+		{
+			"id": 10,
+			"text": "Johanna Tam"
+		},
+		{
+			"id": 11,
+			"text": "Mohan Krishna"
+		},
+		{
+			"id": 12,
+			"text": "Rayapuvari"
+		},
+		{
+			"id": 13,
+			"text": "Jawaad Hossain"
+		},
+		{
+			"id": 14,
+			"text": "Dave Fortier"
+		},
+		{
+			"id": 15,
+			"text": "John J Nusslein"
+		},
+		{
+			"id": 16,
+			"text": "James Yavorski"
+		},
+		{
+			"id": 17,
+			"text": "Sreejith"
+		},
+		{
+			"id": 18,
+			"text": "Madhavankutty"
+		},
+		{
+			"id": 19,
+			"text": "Ray Weston"
+		},
+		{
+			"id": 20,
+			"text": "Jennifer Smith"
+		},
+		{
+			"id": 21,
+			"text": "Susan Curran"
+		},
+		{
+			"id": 22,
+			"text": "Brett Rosequist"
+		},
+		{
+			"id": 23,
+			"text": "Christi Reis"
+		},
+		{
+			"id": 24,
+			"text": "Blake Koehler"
+		},
+		{
+			"id": 25,
+			"text": "Tony Kwan"
+		},
+		{
+			"id": 26,
+			"text": "Peter Neville"
+		},
+		{
+			"id": 27,
+			"text": "Alison Hodge"
+		},
+		{
+			"id": 28,
+			"text": "Jim Mascia"
+		},
+		{
+			"id": 29,
+			"text": "Mark Waltham"
+		}
+	],
+	"listDropCL":[
+		{
+			"id": 1,
+			"text": "James O'Brien"
+		},
+		{
+			"id": 2,
+			"text": "Rekha Chikkabasavaiah"
+		},
+		{
+			"id": 3,
+			"text": "Ashley Steele Steele"
+		},
+		{
+			"id": 4,
+			"text": "Olu Crayton"
+		},
+		{
+			"id": 5,
+			"text": "Ashley Steele"
+		},
+		{
+			"id": 6,
+			"text": "Janice Guiendon"
+		}
+	]
+}
